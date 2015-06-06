@@ -10,7 +10,7 @@ https://github.com/k5trismegistus/k5trismegistus-sezemi-2015-readable-code/blob/
 考え過ぎない
 
 
-# task2
+# task3
 
 ## code
 https://github.com/k5trismegistus/k5trismegistus-sezemi-2015-readable-code/blob/55fe391fb753daa8bdad3d5c4d0d1e44ee7ebbc4/cookingpapa.py
@@ -23,3 +23,22 @@ https://github.com/k5trismegistus/k5trismegistus-sezemi-2015-readable-code/blob/
 
 ## in short
 言われたことだけをこなす
+
+
+# task4
+
+## explaination
+task3と同じ
+
+# task5
+
+## code
+https://github.com/k5trismegistus/k5trismegistus-sezemi-2015-readable-code/blob/d26125ee67f2582da294da52e338e4c19d63cf57/cookingpapa.py
+
+## explaination
+レシピデータに複数のカラムが出てきましたが、まだ独自クラスは作らず辞書形式で格納しています。
+キーとしてrecipe_idやrecipe_nameといった読めばわかる名前を使っています。
+複数のレシピデータをあつかうのも、その各レシピデータの格納される辞書をリスト形式で実装しました。
+
+## in short
+あるものは使う
