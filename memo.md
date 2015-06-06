@@ -42,3 +42,28 @@ https://github.com/k5trismegistus/k5trismegistus-sezemi-2015-readable-code/blob/
 
 ## in short
 あるものは使う
+
+## 啓太
+```python
+load_recipe_data(csv_name)
+```
+関数名に動作を，変数名にどういったデータを格納するべきかが記述されている．
+```python
+for recipe in recipe_list:
+```
+なにをイテレートしているかが明確である．
+
+```python
+print_recipe_all(recipe_list)
+```
+プリントをするにしても，引数の一部なのか全部なのか，それが指定されているのがリーダブル!
+```
+
+
+
+### 以下変更点
+```python
+load_recipe_data_from_files
+```
+複数のファイルからデータを読み込む際に，現在の関数を複数回呼べるようにする関数．
+
